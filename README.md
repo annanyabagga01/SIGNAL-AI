@@ -22,6 +22,18 @@ It then converts information overload into:
 
 ---
 
+🌐 Live Demo
+
+🚀 Try SIGNAL: https://signalai01.netlify.app/
+
+Experience SIGNAL live and see how it transforms information overload into actionable priorities:
+
+NOW → NEXT → LATER → IGNORE
+
+«SIGNAL helps information-overloaded college students decide what actually deserves their attention.»
+
+---
+
 ## 🎯 The Problem
 
 College students often have multiple competing priorities at the same time:
