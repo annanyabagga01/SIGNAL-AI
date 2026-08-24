@@ -1,0 +1,7 @@
+{
+  "name": "SIGNAL",
+  "description": "SIGNAL sits between information and attention, filtering what arrives so students can focus on what actually matters. Less noise. More signal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
